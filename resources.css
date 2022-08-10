@@ -1,3 +1,17 @@
 * {
   font-family: Helvetica;
 }
+
+#icecream {
+  height: 250px;
+  width: 250px;
+}
+
+p {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+footer {
+  font-weight: bold;
+}
